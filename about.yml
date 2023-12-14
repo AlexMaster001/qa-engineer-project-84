@@ -1,0 +1,15 @@
+---
+# с помощью символа # создаются комментарии, чтобы что-то пояснить
+name: Kirsanov Alex
+job: QA Engineer
+level: junior
+email: alexbalderlab@gmail.com
+description: |
+  I am student of Hexlet
+
+  
+skills: 
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Linux
+  - Карточные фокусы
